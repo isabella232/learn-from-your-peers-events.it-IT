@@ -1,15 +1,16 @@
 ---
 title: 'Modelli, token e lavoro di squadra: come rendere scalabile il contenuto di Adobe Marketo Engage'
-description: La creazione di contenuti per i programmi di marketing è un processo lungo. L’applicazione di modelli e token consente di creare processi scalabili tra i team e di ottenere di più con meno risorse di Marketo Engage. Ascolta Lauren McCormack, pluripremiata leader di marketing e due volte campionessa Adobe Marketo Engage, mentre condivide gli anni di saggezza per rendere scalabili i contenuti del tuo Marketo Engage. In questa presentazione imparerai:- Utilizzare token e modelli per creare programmi in modo più efficace ed efficiente- Suggerimenti per ottenere il massimo dalla libreria di contenuti esistente- Best practice per semplificare il processo di richiesta della campagna- Strategie di comunicazione efficaci per allineare i team interni alla strategia dei contenuti
+description: La creazione di contenuti per i programmi di marketing è un processo lungo. L’applicazione di modelli e token consente di creare processi scalabili tra i team e di ottenere di più con meno risorse di Marketo Engage. Ascolta Lauren McCormack, pluripremiata leader di marketing e due volte campionessa Adobe Marketo Engage, mentre condivide gli anni di saggezza per rendere scalabili i contenuti del tuo Marketo Engage.
+solution: Marketo Engage
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
 last-substantial-update: 2023-03-03T00:00:00Z
 jira: KT-12415
 thumbnail: 3416250.jpeg
-source-git-commit: b434237a678e938db8d99796def77ce92902738c
+source-git-commit: 4401868e3386302a7c847197d15ad0fa83bfed0f
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
