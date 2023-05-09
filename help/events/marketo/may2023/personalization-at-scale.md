@@ -8,7 +8,7 @@ doc-type: Event
 last-substantial-update: 2023-05-05T00:00:00Z
 jira: KT-13214
 thumbnail: 3419133.jpeg
-source-git-commit: 112c25b593e5d3569dedc99b36237b92494d8a44
+source-git-commit: 2a3677dfebbe9a1edfce7d3c03bf921525a57bd7
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Nel mondo basato sui dati di oggi, se non stai personalizzando i contenuti di ma
 In questo webinar imparerai:
 
 * Perché la personalizzazione è importante?
-* Casi d’uso e tecniche principali per la personalizzazione. Caratteristiche e tecniche disponibili all&#39;interno del Marketo Engage vi insegneremo come utilizzare: Token, segmentazioni, contenuti dinamici e snippet e script Velocity.
+* Casi d’uso e tecniche principali per la personalizzazione. Caratteristiche e tecniche disponibili all&#39;interno del Marketo Engage ti insegneremo come utilizzare: Token, segmentazioni, contenuti dinamici e snippet e script Velocity.
 * Casi d’uso di script a velocità avanzata, tra cui la personalizzazione del contenuto utilizzando dati provenienti da oggetti personalizzati.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419133/?learn=on)
