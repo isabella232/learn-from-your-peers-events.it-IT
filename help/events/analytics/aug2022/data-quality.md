@@ -1,6 +1,6 @@
 ---
-title: Qualità e adozione dei dati
-description: Scopri come creare una qualità dei dati in ogni aspetto di Adobe Analytics e crearne una cultura condivisa.
+title: Qualità dei dati e adozione
+description: Scopri come migliorare la qualità dei dati in ogni aspetto di Adobe Analytics e creare una cultura condivisa.
 solution: Analytics
 role: User
 doc-type: Event
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Qualità e adozione dei dati in [!DNL Analytics]
 
-Le aziende hanno identificato i dati come uno strumento chiave per il successo aziendale futuro. A tal fine, è necessario un elevato livello di qualità dei dati e l&#39;adozione di uno stack di dati maturo. Scopri come creare la qualità dei dati in ogni aspetto di [!DNL Adobe Analytics] e creare intorno ad essa una cultura condivisa.
+Le aziende hanno identificato i dati come fattori chiave per il successo aziendale futuro. Per ottenere questo risultato, sono necessari un alto livello di qualità dei dati e l’adozione di uno stack di dati maturo. Scopri come migliorare la qualità dei dati in ogni aspetto di [!DNL Adobe Analytics] e creare una cultura condivisa intorno ad esso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414203/?quality=12&learn=on)
